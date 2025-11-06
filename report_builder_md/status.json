@@ -1,0 +1,26 @@
+{
+    "basic_info": {
+        "CLASS_NO": 11,
+        "MY_ID": "K24122",
+        "MY_NAME": "稗田花林",
+        "GROUP_ID": 99,
+        "LEADER_ID":"K24117",
+        "LEADER_NAME": "西田詩音",
+        "MEMBER_ID_1":"K24122",
+        "MEMBER_NAME_1": "稗田花林",
+        "MEMBER_ID_2":"K24053",
+        "MEMBER_NAME_2": "神戸愛奈",
+        "MEMBER_ID_3":"K24056",
+        "MEMBER_NAME_3": "木村優佳",
+        "MEMBER_ID_4":"K23996",
+        "MEMBER_NAME_4": "渡邉晴美",
+        "MEMBER_ID_5":"K23995",
+        "MEMBER_NAME_5": "河合星実",
+        "MEMBER_ID_6":"K23994",
+        "MEMBER_NAME_6": "大学コンピュータシステム",
+        "MEMBER_ID_7":"K23993",
+        "MEMBER_NAME_7": "大学メディア情報",
+        "MEMBER_ID_8":"K23992",
+        "MEMBER_NAME_8": "大学情報科学"
+    }
+}
